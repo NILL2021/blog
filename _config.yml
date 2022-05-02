@@ -1,9 +1,9 @@
 
-title: ToastersUnited's Blog
+title: ToastersUnited
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Hello! This is my blog!
-twitter_username: @I don't have twitter 😯
+twitter_username: @
 github_username: NILL2021
 minimal_mistakes_skin: dark
 search: true
